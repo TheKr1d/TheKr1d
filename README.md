@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<!--
-**TheKr1d/TheKr1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Currently looking for a job
+ - I am interested in frontend development
+ - You can send an email or telegram
+ - Email: epifanov.vv.spb@gmail.com
+ - Telegram: @epiSPB
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
